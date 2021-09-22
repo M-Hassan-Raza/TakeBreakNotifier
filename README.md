@@ -1,5 +1,5 @@
 # TakeBreakNotifier
 ### A short script that notifies the user every 20 minutes to take a little break from continuously looking at the screen. 
 
-### Software Dem
+### Software Demo
 <img src = "/images/screenshot.png">
